@@ -6,6 +6,8 @@ Historia de la tecnología, las máquinas, los computadores, programación, etc.
 
 # Referentes textuales
 Como mis inspiraciones se encuentran en cosas de ocultismo, Lovecraft y su horror cósmico influenciado por el espiritismo, resulta siempre en una fuente de ideas que vuelvo a reinterpretar para lo que necesito. "He aprovechado las sombras que pasan de un mundo a otro para sembrar la muerte y la locura"
+![Libro de H.P Lovecraft] (./imagenes/locura.jpg)
+
 
 # Referentes artísticos
 Si bien no son parte de lo que podríamos considerar como la institución artírtica, me influencio mucho de bandas para intentar replicar el sonido que tienen (siendo ese mi interés principal, el sonido), ya sean guitarras o sontetizadores, véase: Brainiac, Roxy Music, Drive Like Jehu, etc.
