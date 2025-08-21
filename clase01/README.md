@@ -6,6 +6,7 @@ Historia de la tecnología, las máquinas, los computadores, programación, etc.
 
 # Referentes textuales
 Como mis inspiraciones se encuentran en cosas de ocultismo, Lovecraft y su horror cósmico influenciado por el espiritismo, resulta siempre en una fuente de ideas que vuelvo a reinterpretar para lo que necesito. "He aprovechado las sombras que pasan de un mundo a otro para sembrar la muerte y la locura"
+
 ![Libro de H.P Lovecraft](./imagenes/locura.jpg)
 
 
