@@ -8,3 +8,5 @@ estudiante1 = angel
 estudiante0nota = 7,0
 
 Array es para tener un espacio donde almacenar datos, ej: //int myPins[] = {4,8,15,16,23,42};
+
+el Ciclo for permite acceso y uso a los datos almacenado, repitiendo y automatizando. Declarar inicio, terminación, y variación
