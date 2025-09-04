@@ -12,3 +12,5 @@ Array es para tener un espacio donde almacenar datos, ej: //int myPins[] = {4,8,
 el Ciclo for permite acceso y uso a los datos almacenado, repitiendo y automatizando. Declarar inicio, terminación, y variación
 
 Me distraje. no sé por qué no me gustan los poemas
+
+Intenté, sin éxito, descubrir qué tipo de pantalla OLED tengo. Esto hizo que me quedara atrás. No quiero hacer un poema
