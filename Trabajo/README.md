@@ -9,3 +9,7 @@ Este circuito sería como el del año pasado pero bien hecho, efectivo, construi
 # Primeros pasos, 25/10
 
 Luego de estar batallando un poco con Sonic Pi, pude informarme lo suficiente para que con ayuda de Copilot pudiera darle instrucciones concretas que me dieran un resutado favorable. "acidproyect" es el nombre de esta pista caótica, luego veré cómo puedo hacer que mute cuando se comunique con Processing
+
+# Ligeros avances, 27/10
+
+A medida que escribo esto, todavía no hago que Processing se comunique con lo que sucede en Arduino o Sonic Pi, pero gracias a tomar de referencia los tutoriales de Processing pude generar ruido visual multicolor. Luego me encargaré de que se vea más abrasivo y caótico para que calce, pero para ser una primera vez considero que está bastante bien
