@@ -16,6 +16,7 @@ Luego de estar batallando un poco con Sonic Pi, pude informarme lo suficiente pa
 
 A medida que escribo esto, todavía no hago que Processing se comunique con lo que sucede en Arduino o Sonic Pi, pero gracias a tomar de referencia los tutoriales de Processing pude generar ruido visual multicolor. Luego me encargaré de que se vea más abrasivo y caótico para que calce, pero para ser una primera vez considero que está bastante bien
 
+
 <img width="1409" height="828" alt="Captura de pantalla 2025-11-03 a la(s) 10 53 03 a m" src="https://github.com/user-attachments/assets/c03c218b-6c26-40db-8004-5544c08ecd9c" />
 
 # Respondiendo, 28/10
