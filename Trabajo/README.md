@@ -39,7 +39,7 @@ Materiales usados:
 -Proyector(montaje)
 -Parlantes(montaje)
 
-==========================================================================================================
+=======================================================================================================
 
 <img width="1431" height="756" alt="Captura de pantalla 2025-11-03 a la(s) 11 06 06 a m" src="https://github.com/user-attachments/assets/34296160-0ac1-41d0-956c-d65b963c6b70" />
 
