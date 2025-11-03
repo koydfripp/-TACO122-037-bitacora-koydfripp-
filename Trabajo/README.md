@@ -35,6 +35,8 @@ Materiales usados:
 -Proyector(montaje)
 -Parlantes(montaje)
 
+<img width="1431" height="756" alt="Captura de pantalla 2025-11-03 a la(s) 11 06 06 a m" src="https://github.com/user-attachments/assets/34296160-0ac1-41d0-956c-d65b963c6b70" />
+
 # Un muro, 03/11
 
 Processing se encuentra dentro de todo calibrado, tengo todavía que trabajar para que el paso de colores claros a oscuros se vea más natural y menos como el movimiento de una cortina, pero algo que me está retrasando es el hecho de que no logro que Sonic Pi reaccione a los datos que sé que le llegan. Se imprime en la parte de "Cues" que la información desde Processing (LDR/Micrófono) llega correctamente, y éste mismo tiene todo en orden
