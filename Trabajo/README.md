@@ -10,7 +10,7 @@ Este circuito sería como el del año pasado pero bien hecho, efectivo, construi
 
 Luego de estar batallando un poco con Sonic Pi, pude informarme lo suficiente para que con ayuda de Copilot pudiera darle instrucciones concretas que me dieran un resutado favorable. "acidproyect" es el nombre de esta pista caótica, luego veré cómo puedo hacer que mute cuando se comunique con Processing
 
-================================================================================================================
+=====================================================================================================
 
 <img width="1424" height="782" alt="Captura de pantalla 2025-11-03 a la(s) 11 03 01 a m" src="https://github.com/user-attachments/assets/9f5c0e5e-89c3-4903-9ad8-9223d1e741e9" />
 
@@ -18,7 +18,7 @@ Luego de estar batallando un poco con Sonic Pi, pude informarme lo suficiente pa
 
 A medida que escribo esto, todavía no hago que Processing se comunique con lo que sucede en Arduino o Sonic Pi, pero gracias a tomar de referencia los tutoriales de Processing pude generar ruido visual multicolor. Luego me encargaré de que se vea más abrasivo y caótico para que calce, pero para ser una primera vez considero que está bastante bien
 
-===============================================================================================================
+=====================================================================================================
 
 <img width="1409" height="828" alt="Captura de pantalla 2025-11-03 a la(s) 10 53 03 a m" src="https://github.com/user-attachments/assets/c03c218b-6c26-40db-8004-5544c08ecd9c" />
 
@@ -39,7 +39,7 @@ Materiales usados:
 -Proyector(montaje)
 -Parlantes(montaje)
 
-====================================================================================================================
+==========================================================================================================
 
 <img width="1431" height="756" alt="Captura de pantalla 2025-11-03 a la(s) 11 06 06 a m" src="https://github.com/user-attachments/assets/34296160-0ac1-41d0-956c-d65b963c6b70" />
 
