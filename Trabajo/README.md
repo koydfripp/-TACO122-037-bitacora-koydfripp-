@@ -38,6 +38,8 @@ Materiales usados:
 -Sonic Pi
 -Proyector(montaje)
 -Parlantes(montaje)
+-Atril de micrófono (es para el LDR)
+-Placa de cobre
 
 =======================================================================================================
 
@@ -46,3 +48,11 @@ Materiales usados:
 # Un muro, 03/11
 
 Processing se encuentra dentro de todo calibrado, tengo todavía que trabajar para que el paso de colores claros a oscuros se vea más natural y menos como el movimiento de una cortina, pero algo que me está retrasando es el hecho de que no logro que Sonic Pi reaccione a los datos que sé que le llegan. Se imprime en la parte de "Cues" que la información desde Processing (LDR/Micrófono) llega correctamente, y éste mismo tiene todo en orden
+
+# Cerca del montaje final, 27/11
+
+Mucho no se ha avanzado, he intentado que Sonic Pi pueda reaccionar a los datos que le llegan desde Processing pero lee mejor cuando no está corriendo, mientras que estando activo apenas  detecta y sin actuar en base a dichos datos, incluso con la aclaración desde processing que va a leer cada 20000 milisegundos. La semana pasada pude asegurarme de que el proyector no manda una luz excesiva, inlcuso es más "oxidada" de lo que esperaba en el sketch, como si de verdad fuera ácido. El LDR está bien soldado al cable paralelo, eso no me preocupa, lo que sí lo hace es que la información no afecta en nada
+
+Ahora, por las sugerencias del profesor he incluido un atril de micrófono donde voy a evidenciar la presencia de la resistencia fotosensible, afortunadamente pude encontrar uno bastante barato y que alcanza al proyector. Justo hoy también tuve la ocurrencia de pegar una de mis placas de cobre usadas en grabado para mantener cierta materialidad donde estará el sensor de luz
+
+
