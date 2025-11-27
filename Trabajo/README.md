@@ -56,3 +56,6 @@ Mucho no se ha avanzado, he intentado que Sonic Pi pueda reaccionar a los datos 
 Ahora, por las sugerencias del profesor he incluido un atril de micrófono donde voy a evidenciar la presencia de la resistencia fotosensible, afortunadamente pude encontrar uno bastante barato y que alcanza al proyector. Justo hoy también tuve la ocurrencia de pegar una de mis placas de cobre usadas en grabado para mantener cierta materialidad donde estará el sensor de luz
 
 
+
+
+# Al-khimiya 2
