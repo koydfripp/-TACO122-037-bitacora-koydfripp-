@@ -59,3 +59,5 @@ Ahora, por las sugerencias del profesor he incluido un atril de micrófono donde
 
 
 # Al-khimiya 2
+
+El semestre pasado expresé mi interés por temas de esoterismo y hermetismo, es algo que me ha acompañado incluso desde antes de aprender a dibujar, y que ha aumentado su presencia en mi trbaajo cuando me metí al mundo del grabado, pues muchos de éstos servían como modo de representar lo que sucedía en laboratorios alquímicos, el conocimiento que se ocultaba en expresiones y palabras rebuscadas. A través del ácido, o "aguafuerte", y el sonido interpretado por los osciladores que pasaban por éste. Ahora el principio es el mismo pero con bases en la programación. 
